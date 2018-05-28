@@ -1,0 +1,19 @@
+.title{
+    font-family: Exo, sans-serif;
+}
+
+button{
+    background-color: orange;
+    border: orange 2px solid;
+    border-radius: 2px;
+    padding: 5px;
+    font-family: Exo, sans-serif;
+    font-weight: bold;
+}
+
+#filter_value{
+    padding: 5px;
+    border-radius: 2px;
+    border: black 2px solid;
+}
+
